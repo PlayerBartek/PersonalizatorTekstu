@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">PersonalizatorTekstu</string>
+    <string-array name="texts">
+        <item>Witaj w aplikacji</item>
+        <item>Cześć</item>
+        <item>Moje uszanowanie</item>
+    </string-array>
+</resources>
